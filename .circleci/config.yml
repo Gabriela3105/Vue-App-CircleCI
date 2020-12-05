@@ -38,9 +38,6 @@ jobs:
             - .firebaserc
           key: v1-dist-{{ .Environment.CIRCLE_BRANCH }}-{{ .Environment.CIRCLE_SHA1 }} 
 
-      # run tests!
-      - run: npm run test:unit 
-
   deploy-job:
        docker:
          - image: circleci/node:10.8.0
