@@ -93,7 +93,9 @@ export default {
         await this.$store.dispatch(ARTICLE_DELETE, this.article.slug);
         this.$router.push("/");
       } catch (err) {
+        /* eslint-disable no-console */
         console.error(err);
+        /* eslint-enable no-console */
       }
     }
   }
