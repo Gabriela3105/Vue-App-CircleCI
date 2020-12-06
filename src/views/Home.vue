@@ -2,8 +2,8 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">conduit Gabriela</h1>
-        <p>A place to share your knowledge.</p>
+        <h1 class="logo-font">conduit Gabriela Chavez</h1>
+        <p>A place to share your knowledge 2.</p>
       </div>
     </div>
     <div class="container page">
