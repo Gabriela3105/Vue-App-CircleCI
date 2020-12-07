@@ -3,7 +3,7 @@
     <div class="banner">
       <div class="container">
         <h1 class="logo-font">conduit Gabriela Chavez</h1>
-        <p>A place to share your knowledge 2.</p>
+        <p>A place to share your knowledge 333.</p>
       </div>
     </div>
     <div class="container page">
